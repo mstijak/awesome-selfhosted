@@ -27,6 +27,7 @@
   - [Proxy](#proxy)
   - [Recipe Management](#recipe-management)
   - [Remote Access](#remote-access)
+  - [Reporting](#reporting)
   - [Resource Planning](#resource-planning)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
@@ -203,6 +204,12 @@
 
 - [SparkView](https://www.beyondssl.com/en/products/sparkview/) - Browser-based remote access solution. No VPN client; just deploy the software in the DMZ. Access VMs, desktops, servers, and apps anytime, anywhere, without complex and costly client rollouts or user management. `⊘ Proprietary` `Java`
 
+
+### Reporting
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [CxReports](https://www.cx-reports.com/) - Self-hosted reporting and PDF document generation with a user-friendly WYSIWYG template editor, API, automated email delivery, and robust security features. Free licenses are available to registered users for low-volume reporting. `⊘ Proprietary` `Docker`
 
 ### Resource Planning
 
